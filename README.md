@@ -1,6 +1,6 @@
 Submission for Aipo Labs' Trial Project By Zihui Zhao
 
-This submission includes a simple chatbot implemented as a Telegram bot. The core of the chatbot leverages the GPT-4o-mini language model to assist users with various tasks through a natural language interface.
+This submission includes a simple chatbot implemented as a Telegram bot. This chatbot uses the gpt-4o-mini language model to assist users with various tasks through a natural language interface.
 
 Key Features
 The bot is equipped with five primary functions that can be autonomously invoked by the LLM based on user input. These features include:
